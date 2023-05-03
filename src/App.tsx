@@ -5,8 +5,8 @@ import './App.css'
 
 function App() {
   const [count, setCount] = useState(0)
-
-  hoge
+  const name: number = 'hello'
+  console.log(name)
 
   return (
     <>
