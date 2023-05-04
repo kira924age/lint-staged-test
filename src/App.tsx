@@ -5,10 +5,6 @@ import './App.css'
 
 function App() {
   const [count, setCount] = useState(0)
-  const name: any = 'hello'
-
-  console.log(name)
-  // console.log(name)
 
   return (
     <>
